@@ -1,0 +1,101 @@
+/***** BODY TAGS*****/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+
+/***** HEADER *****/
+
+h1 {
+    text-transform: uppercase;
+   
+    font-size: 30px;
+}
+
+h1 span {
+    color: #77a466;
+}
+
+logo {
+    float: left;
+}
+nav {
+    float: right;
+}
+
+nav ul{
+    margin: -40px 4px;
+}
+
+nav ul a {
+   text-decoration: none; 
+}
+nav ul li {
+    display: inline;
+    
+    font-variant: small-caps;
+    color: #77a466;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 700;
+}
+
+.hero {
+    border-top: 2px solid #77a466;
+    border-bottom: 2px solid #77a466;
+}
+
+/***** Main Section *****/
+
+.full-width h2 {
+    color: #77a466;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.full-width p {
+    font-weight: lighter;
+}
+
+/***** THREE COLUMN AREA *****/
+.third-width {
+    
+    width: 400px;
+    float: left;
+
+}
+
+.footer {
+    text-align: center;
+}
+
+.sections {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.third-width h3 {
+    font-size: 12px;
+    line-height: 25px;
+    font-variant: small-caps;
+    
+}
+
+.third-width ul a {
+    text-decoration: none;
+    color: #77a466;
+}
+}
+
+.third-width ul li {
+    margin: 20px;    
+    padding: 20px;
+    
+    
